@@ -1,0 +1,14 @@
+/* Only connected face-font in my project */
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&display=swap&subset=cyrillic");
+
+.render {
+  text-align: center;
+}
+
+.addAction {
+  margin-top: 17px;
+}
+
+.MuiPaper-root {
+  margin-bottom: 20px !important;
+}

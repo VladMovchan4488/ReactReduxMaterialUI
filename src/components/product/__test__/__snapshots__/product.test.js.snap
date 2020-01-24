@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot my Product 1`] = `
+<WithStyles(Component)
+  className="table"
+  columns={
+    Array [
+      Object {
+        "field": "name",
+        "title": "Name",
+      },
+      Object {
+        "field": "price",
+        "title": "Price",
+      },
+      Object {
+        "field": "stars",
+        "title": "Stars",
+      },
+      Object {
+        "field": "bsr_category",
+        "title": "Category",
+      },
+      Object {
+        "field": "brand",
+        "title": "Brand",
+      },
+    ]
+  }
+  title="Products"
+/>
+`;

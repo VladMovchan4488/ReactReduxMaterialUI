@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snaphot List 1`] = `
+<div
+  className="render"
+>
+  <Product
+    products={
+      Array [
+        Object {
+          "bsr_category": "Home & Kitchen",
+          "name": "A3 Magnetic Dry Wipe Weekly Planner Whiteboard for Fridge",
+          "price": 15.79,
+          "stars": 4.6,
+        },
+      ]
+    }
+  />
+  <button
+    className="btn btn-secondary addAction"
+    onClick={[Function]}
+    type="button"
+  >
+    Добавить ещё одну таблицу
+  </button>
+</div>
+`;
